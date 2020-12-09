@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Material Design</string>
+    <string name="my_files">My Files</string>
+    <string name="shared">Shared</string>
+    <string name="starred">Starred</string>
+    <string name="recent">Recent</string>
+    <string name="backup">Backup</string>
+    <string name="settings">Settings</string>
+    <string name="app">App</string>
+    <string name="logout">Logout</string>
+
+    <string name="openNavDrawer">Navigation Bar Open</string>
+    <string name="closeNavDrawer">Navigation Bar Close</string>
+</resources>
